@@ -24,7 +24,7 @@ a quick setup for your open publishing project.
 Originally created by  
 *Susanne van Rijn*
 
-![alttext](figures/Open Press TiU.png)
+![alttext](figures/OpenPressTiU.png)
 
 +++
 
