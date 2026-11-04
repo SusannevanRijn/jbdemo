@@ -1,5 +1,5 @@
 ---
-title: An quick start guide to open publishing with JupyterBook
+title: A quick start guide to open publishing with JupyterBook
 site:
   hide_outline: true
   hide_toc: true
@@ -15,7 +15,7 @@ no-update-date: true
 
 +++ { "kind": "split-image" }
 
-## The TUD starterkit for open publishing with JupyterBook
+## The EUR starterkit for open publishing with JupyterBook
 
 a quick setup for your open publishing project.
 
@@ -28,5 +28,5 @@ Originally created by
 
 +++
 
-This document reports on the use of Jupyter Book for open publishing at TU Delft - especially bachelor and master thesis. It provides a quick setup for your open publishing project, including a template and guidelines for using Jupyter Book effectively. The starterkit is designed to help you create and share your research in an open and accessible way.
+This document reports on the use of Jupyter Book for open publishing at Erasmus University Rotterdam - especially bachelor and master thesis. It provides a quick setup for your open publishing project, including a template and guidelines for using Jupyter Book effectively. The starterkit is designed to help you create and share your research in an open and accessible way.
 
