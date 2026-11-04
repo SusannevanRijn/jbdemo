@@ -11,9 +11,6 @@ project:
   numbering: 
     title: true
   # specify authors in authors.yml file
-    plugins:
-      - plugins/editor_local.mjs
-    
 
   # used to load /reuse materials from other repositories
   references:
@@ -40,6 +37,7 @@ project:
     - plugins/page-last-updated.mjs
     - plugins/typst_conversion-support.mjs
     - plugins/lightbox.mjs
+    - plugins/editor_local.mjs
     - https://github.com/choldgraf/myst-iconify/releases/latest/download/index.mjs
 
 extends:
