@@ -11,6 +11,9 @@ project:
   numbering: 
     title: true
   # specify authors in authors.yml file
+    plugins:
+    - plugins/editor_local.mjs
+    
 
   # used to load /reuse materials from other repositories
   references:
