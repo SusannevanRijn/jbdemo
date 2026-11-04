@@ -25,6 +25,7 @@ Originally created by
 *Susanne van Rijn*
 
 ![](figures/Open Press TiU.png)
+
 +++
 
 This document reports on the use of Jupyter Book for open publishing at Erasmus University Rotterdam - especially bachelor and master thesis. It provides a quick setup for your open publishing project, including a template and guidelines for using Jupyter Book effectively. The starterkit is designed to help you create and share your research in an open and accessible way.
