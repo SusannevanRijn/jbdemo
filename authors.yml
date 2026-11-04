@@ -7,6 +7,11 @@ project:
       affiliations:
         - tud
 
+    - id: project manager
+      name: Susanne van Rijn
+      affiliations:
+        - eur
+
   contributors:
     - id: supervisor-1
       name: prof. dr. John Doe
