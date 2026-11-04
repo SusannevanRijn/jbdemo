@@ -17,7 +17,7 @@ no-update-date: true
 
 ## The EUR starterkit for open publishing with JupyterBook
 
-a quick setup for your open publishing project.
+A quick setup for your open publishing project
 
 {button}`Use this template <https://github.com/new?template_name=starterkit&template_owner=TUD-JB-OS>`  
 
